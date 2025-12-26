@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://aurora-1ti.pages.dev/sitemap.xml
